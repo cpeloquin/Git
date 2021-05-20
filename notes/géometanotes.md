@@ -10,7 +10,7 @@ Ce que j'ai appris depuis avoir quitté l'université : clarification sur ce qui
 
 ### Étape 2: profile, cv, site web
 
-### Etape 3:
+### Étape 3:
 Qu'apprendre de la dernière invasion nous révèle?
 Qu'est-ce que la gestion des criquets nous révèle sur notre relation avec la nature
 1- la création des problèmes

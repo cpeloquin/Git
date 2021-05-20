@@ -1,5 +1,5 @@
+Carrière, Marcel, De Grâce et d'Embarras. Une campagne bousculée par la ville, film de 16 mm, couleur, Office national du film du Canada, 94 minutes, 1979
 
-De Grâce et d'Embarras
 
 Le film documentaire De Grâce et d'Embarras (Marcel Carrière, ONF, 1979) fait état de l'occupation de la vie sur les îles. La description de la cinémathèque:  
 

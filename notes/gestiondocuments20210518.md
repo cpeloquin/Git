@@ -34,37 +34,7 @@ Travailler sur DOCSD16
 
 https://github.com/cpeloquin/Git.git
 
-
 Robocopy pour copier périodiquement tous dans documents\RobocopCarteSD16: 
-
-
 C:\Users\cpelo>robocopy g:\ d:\Claude\Documents\RobocopyCarteSD16\ /MIR
 
 
-
-
-
-
-
-
-
-
-
-~~## Manjaro T430~~
-~~Écriture dans le répertoire «Document»~~
-~~+ Notes~~
- ~~+ MD~~
-     ~~notescourantesdatecréation.md~~
-     ~~Gestion documents.md~~
-     ~~referencemarkdown.md~~
-~~+ cv~~
-~~## Win10 ~~
-~~Travailler sur DOCSD16~~
-~~+ géo~~
-~~+ sorel~~
-~~+ histoire sorel~~
-~~+ iledegrace~~
-~~+ erosion~~
-~~+ criquets~~
-~~+ eeyou~~
-  
