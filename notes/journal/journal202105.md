@@ -13,6 +13,9 @@ Pour l'école Léo doit faire un dessin sur la différence. Je proposerais Québ
 
 Félix a pratiqué sa présentation sur le jeu dans la douche et puis dans le salon devant nous trois, bien préparé ça devrait être un succès. 
 
+En soirée, familiarisation avec VS Code, Git, et organisation de mes répertoires de notes. 
+
+
 # Mardi, le 18 mai 2025
 
 J'ai avancé, corrigé et mis en ligne sur geo.cpeloquin.net mon premier texte de notes sur la géographie historique de l'île de grâce. 

@@ -17,6 +17,9 @@ Travailler sur DOCSD16
 
 gitignore : temp/ 
 
+Dans Visual Studio Code: View source Control
+Exportation markdown à pdf  
+
 **Documents divers pas dans GIT** 
 + Criquet  
 + Eeyou  

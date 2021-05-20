@@ -1,24 +1,25 @@
 # À venir
 Payer revenu Canada 24 mai  
+Version markdown criquets
+Version markdown eeyouistchee
+Recorriger île de grâceversion markdown et mettre version pdf à jour
 
 
 # Mercredi le 19 mai 2021
 Choisir et installer visualisateur markdown  
 [x] Qu’est-ce que «open a folder» ?
 Trouver apostrophe courbée = alt+0146 sur windows, sur linux?  
-Integration avec git  
-Exportation markdown à pdf  
-Autosave et backup  
-LaTex et Visual Studio Code (plus tard, pas d’urgence)
-Version markdown criquets
-Version markdown eeyouistchee
-Recorriger île de grâceversion markdown et mettre version pdf à jour
+U+2019
+
+[x] Integration avec git  
+~~LaTex et Visual Studio Code (plus tard, pas d’urgence)~~
+~~Autosave et backup : Pas nécessaire avec git~~
 
 ### Photographie
 Film ektar 100 pjc en développement
 Numériser photos îles
-Organser photos cpeloquin.net
-
+Organiser photos cpeloquin.net
+’
 
 # Mardi, le 18 mai 2021
 
