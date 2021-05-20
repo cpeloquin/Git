@@ -15,6 +15,8 @@ Félix a pratiqué sa présentation sur le jeu dans la douche et puis dans le sa
 
 En soirée, familiarisation avec VS Code, Git, et organisation de mes répertoires de notes. 
 
+Je me remet à la géographie, au sérieux cette fois. Mon doctorat était bien mais trop «cutting edge» à la mode étatsunienne. Je dois palier à ça.
+
 
 # Mardi, le 18 mai 2025
 
