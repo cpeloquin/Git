@@ -8,6 +8,8 @@ Beauregard, L. (1970). Les étapes de la mise en valeur agricole de la vallée d
 
 Cet essai de géographie rétrospective retrace les grandes étapes de la mise en valeur agricole de la vallée du Richelieu, une des régions du Québec les plus favorisées pour l'agriculture. Il montre que depuis 150 ans, l'agriculture du Richelieu a été commerciale et conditionnée par des productions clés telles que le blé, le foin et le lait. Il décrit le comportement des habitants face à l'économie agricole et souligne les retards chroniques qui caractérisent l'acquisition et l'application de meilleures méthodes en agriculture comme dans l'industrie laitière depuis un siècle. La conclusion se veut une interprétation de ces retards historiques dans une perspective géographique. 
 
+De Koninck et al. (1973): 
+
 
 De Koninck, Rodolphe, Turcot, Anne-Marie et Zubrzycki, Andrée G. « Les pâturages communaux du lac Saint-Pierre : de leur histoire et de leur actualité ». Cahiers de géographie du Québec 17, no 41 (1973) : 317–329. https://doi.org/10.7202/021120ar 
 
@@ -20,10 +22,7 @@ Mots-clés : Géographie historique, culture régionale, pâturages communaux Ce
 
 Courville, S. (1980). La crise agricole du Bas-Canada, éléments d’une réflexion géographique (deuxième partie). Cahiers de géographie du Québec, 24(63), 385–428. https://doi.org/10.7202/021487ar 
 
-
-
 Boivin, A. (1995). Le Survenant ou la fin de la société rurale d’ancien régime. Québec français,(99), 90–94. 
-
 
 Douville, R. (1970). La tragédie du chenal du Moine. Les Cahiers des dix,(35), 55–67. https://doi.org/10.7202/1025270ar 
 
