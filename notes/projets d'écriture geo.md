@@ -1,4 +1,4 @@
-# Projets et questions à résoudre 
+# Projets 
 
 ## Géographie québecoise
 
@@ -17,7 +17,8 @@
 ### Érosion
 
 [] Historique géologique de l'archipel
-[] Historique des travaux de dragage
+[] Historique des travaux de dragage la voie maritime du Saint-Laurent
+
 
 ### Préhistoire de la région de Sorel
 
@@ -35,7 +36,6 @@
 ### Écologie 
 
 Les services écosystémiques
-
 
 
 # Avril 2021 retour à la géographie

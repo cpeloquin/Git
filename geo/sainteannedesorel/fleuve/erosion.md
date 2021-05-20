@@ -28,7 +28,8 @@ C'est à la fin de ce processus, il y a environ 8000 ans, que le fleuve a pris l
 #### Les vagues
 
 
-### La voie maritime du Saint Laurent
+### La voie maritime du Saint Laurent -- 
+    voir navigationsaintleurent.md
 
 Dans son ensemble, le fleuve Saint-Laurent est un endroit difficile pour la navigation, surtout à partir de Québec. 
 
