@@ -3,7 +3,7 @@
 ## Géographie québecoise
 
 
-## Sorel et Sainte-Anne
+## Sorel et Sainte-Anne (voir /geo/sainteannedesorel/sainteanne2021.md)
 
 ### Projet histoire pot-au-beurre et sabl
 
@@ -18,7 +18,6 @@
 
 [] Historique géologique de l'archipel
 [] Historique des travaux de dragage la voie maritime du Saint-Laurent
-
 
 ### Préhistoire de la région de Sorel
 

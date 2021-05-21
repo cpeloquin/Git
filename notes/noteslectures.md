@@ -21,3 +21,8 @@ généralisée de pratiques qui avaient, depuis toujours, encouragé une certain
 
 Géologie fleuve Saint-Laurent
 http://www2.ggl.ulaval.ca/personnel/bourque/s5/5.5.quaternaire.html.oriPayer  
+
+
+
+
+Mingelbier, M. et Brodeur, P. et Morin, J. (2004). Impacts de la régularisation du débit des Grands Lacs et des changements climatiques sur l’habitat des poissons du fleuve Saint-Laurent. Vecteur Environnement , 37 (6). p. 34-43. 

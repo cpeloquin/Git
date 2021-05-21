@@ -1,0 +1,110 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.20)  20 MAY 2021 21:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/run/media/claude/DOCSD16/Git/tex/essaistex/gummitest.tex
+(/run/media/claude/DOCSD16/Git/tex/essaistex/gummitest.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/latex/psnfss/bookman.sty
+Package: bookman 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 10.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1pbk.fd
+File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
+)
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10.95> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 10.
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box47
+) (/run/media/claude/DOCSD16/Git/tex/essaistex/gummitest.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <17.28> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <17.28> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <12> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 16.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <8> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <9> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <6> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 17.
+
+Overfull \hbox (7.25928pt too wide) in paragraph at lines 17--17
+[][]\OT1/pbk/l/n/9 https://raw.githubusercontent.com/alexandervdm/gummi/master/ChangeLog| 
+ []
+
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 24.
+LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <10.95> not available
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 35.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/run/media/claude/DOCSD16/Git/tex/essaistex/gummitest.aux) ) 
+Here is how much of TeX's memory you used:
+ 515 strings out of 479383
+ 9016 string characters out of 5875830
+ 277949 words of memory out of 5000000
+ 17676 multiletter control sequences out of 15000+600000
+ 419722 words of font info for 64 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,8n,49p,405b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on /run/media/claude/DOCSD16/Git/tex/essaistex/gummitest.pdf (2 pages, 43136 bytes).
+PDF statistics:
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
