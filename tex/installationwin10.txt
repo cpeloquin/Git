@@ -1,0 +1,6 @@
+Installer LaTex sur win10 
+
+Télécharger et installer basic-miktex_21.2.x64.exe
+
+C:\Users\cpelo\AppData\Local\Programs\MiKTeX
+Preferred paper size is Letter

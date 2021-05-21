@@ -1,5 +1,10 @@
 # Notices bibliographiques, résumés et observations, toutes catégories confondues, depuis mai 2021
 
+
+
++Des empires sous la terre" de Mohamad Amer Meziane
+
+
 + Courville, S. (1980). La crise agricole du Bas-Canada, éléments d’une réflexion géographique. Cahiers de géographie du Québec, 24(62), 193–223. https://doi.org/10.7202/021470ar 
 
 Le débat historiographique actuel autour de la « crise agricole du Bas-Canada » suggère une révision géographique des données qui ont conduit à l'élaboration de la thèse relative aux malaises de l'agriculture dans la première moitié du XIXe siècle. L'article est le premier d'une série de deux qui visent à rendre compte de cette révision. Les questions soulevées sont surtout d'ordre conceptuel et méthodologique et concernent tout autant les postulats de la thèse classique que les interprétations fournies par les historiens de certains phénomènes tels le morcellement foncier et révolution du système de culture.
