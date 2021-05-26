@@ -399,7 +399,8 @@ une bonne distance du chenal.*
 *Entre 1902 et 1907, la drague hydraulique J. Israël Tarte fut affectée aux travaux dans le chenal du lac Saint-Pierre. La drague hydraulique rejetait les résidus par un tuyau se trouvant sur un ponton flottant, celui ayant une longueur d’environ 600 m. On peut donc associer les zones de dépôts se trouvant à environ 600 m du chenal de 1907 aux travaux de dragage s’étant déroulé entre 1902 et 1907*
 
 *Figure 39 : Lac Saint-Pierre : zones ayant été utilisées entre 1844 et 1907 pour le dépôt de matériel dragué*
-Dans le cadre de cette recherche, l’accumulation de données historiques précises nous a permis de créer un nouveau tableau synthèse localisant dans le temps et dans l’espace l’évolution des zones draguées dans le Saint-Laurent entre Montréal et Québec. Cette synthèse est présentée à la Figure 41.
+
+*Dans le cadre de cette recherche, l’accumulation de données historiques précises nous a permis de créer un nouveau tableau synthèse localisant dans le temps et dans l’espace l’évolution des zones draguées dans le Saint-Laurent entre Montréal et Québec. Cette synthèse est présentée à la Figure 41.*
 
 *Figure 41 : Évolution du chenal maritime du fleuve Saint-Laurent entre 1847 et 1907*
 
@@ -420,60 +421,33 @@ Figure A.6 : Toutes les équipes d’hommes travaillant sur les différents bât
 + Côté,  J.-P.  et  J.  Morin  (2007).  Principales  interventions  humaines  survenues  dans  le  fleuve  Saint-Laurent  entre  Montréal  et  Québec  au  20è  siècle :  1907-2005.  Rapport  technique  SMC  Québec- Section Hydrologie RT- 141, Environnement Canada, Sainte-Foy. 65 pages.  
 
 
-2.3.1 Niveaux d’eau de référence
-On calcule habituellement la profondeur du chenal maritime en utilisant un niveau d’eau de référence (ou
+*2.3.1 Niveaux d’eau de référence
+*On calcule habituellement la profondeur du chenal maritime en utilisant un niveau d’eau de référence (ou
 datum). Au 19e siècle, on utilisait par exemple le niveau des eaux basses ordinaires afin de calculer la
 profondeur du chenal maritime. Ce niveau de référence était celui qui était utilisé par l’Amirauté
-britannique qui produisait à l’époque les cartes marines des eaux canadiennes. Nous avons peu
-d’informations en ce qui concerne les repères qui servaient à l’époque à déterminer ce niveau de
-référence. Toutefois, nous savons que ce niveau correspondait approximativement à 3,3 m d’eau au
-dessus des hauts-fonds du lac Saint-Pierre, ceux-ci étant relativement bien nivelés.
-Au début du 20e siècle, suite à quelques années durant lesquelles le niveau du Saint-Laurent a été
-particulièrement bas, on commença à utiliser le niveau des eaux basses de 1897 afin de calculer la
-profondeur du chenal maritime. Le Dredging Datum 1897 a été établi afin de fournir une surface
-uniforme au dragage et sondage du chenal maritime (Labrecque, 1994). Le datum de 1897 a été aussi
-utilisé par le SHC lorsqu’on effectua une campagne de levés hydrographiques du Saint-Laurent (1898-
-1905) entre Montréal et Québec. Ce niveau du fleuve correspondait à une élévation précise sur des jauges
-permanentes distribuées le long du Saint-Laurent. Cependant, sur les cartes de relevés hydrographiques
-produites entre 1898 et 1905, on indique aussi que pour les zones fluviales où se font sentir l’effet des
-marées, le niveau de référence correspond plutôt au niveau moyen des mers (NMM) déterminé par R.
-Steckel, à Québec entre 1880 et 1882.
-Sur les cartes marines des années 1930 il est indiqué que le Dredging Datum de 1897 correspond à une
-élévation de 4,14 m sur la borne de nivellement, qui était située sur la veille porte du Canal Lachine. Sur
-l’une des cartes, il est toutefois indiqué que cette élévation était autrefois de 4,30 m et que la baisse de
-niveau est attribuable aux travaux de dragage effectués dans le courant Sainte-Marie2 depuis 1897.
-Tout au long du 20e siècle et encore aujourd’hui, le niveau de référence des eaux basses de 1897 a été
-utilisé, et il constitue encore aujourd’hui la valeur du zéro hydrographique de ce secteur (B. Labrecque,
-SHC, Comm. pers.).
-Les années 1930, en particulier l’année 1934, furent une période durant laquelle le niveau du fleuve a été
-extrêmement bas. Cette période fit craindre le pire aux acteurs de l’industrie maritime et aux
+britannique qui produisait à l’époque les cartes marines des eaux canadiennes. Nous avons peu d’informations en ce qui concerne les repères qui servaient à l’époque à déterminer ce niveau de référence. Toutefois, nous savons que ce niveau correspondait approximativement à 3,3 m d’eau au dessus des hauts-fonds du lac Saint-Pierre, ceux-ci étant relativement bien nivelés. Au début du 20e siècle, suite à quelques années durant lesquelles le niveau du Saint-Laurent a été particulièrement bas, on commença à utiliser le niveau des eaux basses de 1897 afin de calculer la profondeur du chenal maritime. Le Dredging Datum 1897 a été établi afin de fournir une surface uniforme au dragage et sondage du chenal maritime (Labrecque, 1994). Le datum de 1897 a été aussi utilisé par le SHC lorsqu’on effectua une campagne de levés hydrographiques du Saint-Laurent (1898-1905) entre Montréal et Québec. Ce niveau du fleuve correspondait à une élévation précise sur des jauges permanentes distribuées le long du  Saint-Laurent. Cependant, sur les cartes de relevés hydrographiques produites entre 1898 et 1905, on indique aussi que pour les zones fluviales où se font sentir l’effet des marées, le niveau de référence correspond plutôt au niveau moyen des mers (NMM) déterminé par R. Steckel, à Québec entre 1880 et 1882.*
+
+*Sur les cartes marines des années 1930 il est indiqué que le Dredging Datum de 1897 correspond à une
+élévation de 4,14 m sur la borne de nivellement, qui était située sur la veille porte du Canal Lachine. Sur l’une des cartes, il est toutefois indiqué que cette élévation était autrefois de 4,30 m et que la baisse de niveau est attribuable aux travaux de dragage effectués dans le courant Sainte-Marie2 depuis 1897. Tout au long du 20e siècle et encore aujourd’hui, le niveau de référence des eaux basses de 1897 a été utilisé, et il constitue encore aujourd’hui la valeur du zéro hydrographique de ce secteur (B. Labrecque, SHC, Comm. pers.).*
+
+*Les années 1930, en particulier l’année 1934, furent une période durant laquelle le niveau du fleuve a été extrêmement bas. Cette période fit craindre le pire aux acteurs de l’industrie maritime et aux
 gouvernements. En 1937, il fut décidé par le ministère de la Marine et des Pêcheries d’adopter le datum
 des eaux basses de 1934 afin de calculer la profondeur du chenal maritime. Le nouveau datum était plus
-bas que celui de 1897. La différence entre les deux datum n’est pas documentée avec précision, si ce n’est [...]
+bas que celui de 1897. La différence entre les deux datum n’est pas documentée avec précision, si ce n’est [...]*
 
 **Labrecque (1994)**
 
-Selon Labrecque (1994), l’ajout et la modification d’infrastructures sur le fleuve Saint-Laurent peuvent
+*Selon Labrecque (1994), l’ajout et la modification d’infrastructures sur le fleuve Saint-Laurent peuvent
 expliquer une très grande partie des changements survenus dans la fluctuation des niveaux d’eau du SaintLaurent à partir de 1964 : reversoirs des îles de Sorel (1931), barrage de Beauharnois (1933),
 approfondissement et élargissement du chenal maritime (1952), ouverture de la Voie maritime (1959),
-barrage de Carillon (1964) et travaux d’Expo 67 (1967). Toujours selon Labrecque (1994), la
-régularisation du débit des Grands Lacs et la mise en place du plan 1958-D (1963) ont eu un effet non
+barrage de Carillon (1964) et travaux d’Expo 67 (1967). Toujours selon Labrecque (1994), la régularisation du débit des Grands Lacs et la mise en place du plan 1958-D (1963) ont eu un effet non
 négligeable sur les variations du niveau d’eau dans la partie fluviale du Saint-Laurent. En fait, la
-stabilisation des débits estivaux par l’harnachement de la grande majorité des tributaire de la rivière des
-Outaouais et la régularisation du débit à la sortie du lac Ontario ont grandement contribué à conserver le
-zéro des cartes actuel. Les débits les plus bas sont généralement observés en été. En conditions naturelles,
-c’est-à-dire sans régularisation, ces débits seraient nettement inférieurs. En effet, bien que le dragage du
-chenal de navigation ait considérablement altéré les niveaux du fleuve à la baisse, la régularisation a eu comme effet d’augmenter les débits estivaux et donc de remonter les niveaux d’eau en période de faible
-débit (Morin et Bouchard, 2000; Morin et al., 2005)
+stabilisation des débits estivaux par l’harnachement de la grande majorité des tributaire de la rivière des Outaouais et la régularisation du débit à la sortie du lac Ontario ont grandement contribué à conserver le zéro des cartes actuel. Les débits les plus bas sont généralement observés en été. En conditions naturelles, c’est-à-dire sans régularisation, ces débits seraient nettement inférieurs. En effet, bien que le dragage du chenal de navigation ait considérablement altéré les niveaux du fleuve à la baisse, la régularisation a eu comme effet d’augmenter les débits estivaux et donc de remonter les niveaux d’eau en période de faible débit (Morin et Bouchard, 2000; Morin et al., 2005)*
 
-
-Le débit du Saint-Laurent est contrôlé depuis 1960 par divers ouvrages de régularisation. Le principal
-ouvrage de contrôle est le barrage de Moses-Saunders à Cornwall en amont de Montréal, où transite un
-débit moyen de 7500 m³/s. Entre Montréal et Québec, les fluctuations à long terme du débit varient selon
-les secteurs hydrographiques. Au port de Montréal, le débit annuel moyen est d’environ 8300 m3/s. À
-Sorel, le débit du fleuve varie entre 6500 m3/s et plus de 20 000 m3/s pour un module de 9500 m3/s
-(Bouchard et Morin, 2000). À Trois-Rivières, le débit annuel moyen est de 10 600 m3/s et il est de 11 600
-m3/s à Québec.
+*Le débit du Saint-Laurent est contrôlé depuis 1960 par divers ouvrages de régularisation. Le principal
+ouvrage de contrôle est le barrage de Moses-Saunders à Cornwall en amont de Montréal, où transite un débit moyen de 7500 m³/s. Entre Montréal et Québec, les fluctuations à long terme du débit varient selon
+les secteurs hydrographiques. Au port de Montréal, le débit annuel moyen est d’environ 8300 m3/s. À Sorel, le débit du fleuve varie entre 6500 m3/s et plus de 20 000 m3/s pour un module de 9500 m3/s (Bouchard et Morin, 2000). À Trois-Rivières, le débit annuel moyen est de 10 600 m3/s et il est de 11 600
+m3/s à Québec.*
 
 Ces étapes correspondent aux séquences
 suivantes :
@@ -491,74 +465,64 @@ suivantes :
 • 1992 : profondeur du chenal maritime de 11 m entre Montréal et Deschaillons;
 • 1998 : profondeur du chenal maritime de 11,3 m entre Montréal et Deschaillons
 
-3.2 Dragage du Saint-Laurent au 20e siècle
-Dès les premières années du siècle, le nouveau chenal maritime profond de 9,1 m participa à
-l’accroissement du trafic maritime entre Montréal et Québec et à l’augmentation de la taille des navires
-sillonnant celui-ci. Dès 1910, il fut de nouveau question d’approfondir le chenal maritime, et le
-gouvernement canadien décida de creuser le chenal maritime jusqu’à une profondeur de 10,7 m (35
-pieds). On avait choisit depuis quelques années le niveau des eaux basses de 1897 afin de mesurer la
+*3.2 Dragage du Saint-Laurent au 20e siècle* 
+
+*Dès les premières années du siècle, le nouveau chenal maritime profond de 9,1 m participa à l’accroissement du trafic maritime entre Montréal et Québec et à l’augmentation de la taille des navires
+sillonnant celui-ci. Dès 1910, il fut de nouveau question d’approfondir le chenal maritime, et le gouvernement canadien décida de creuser le chenal maritime jusqu’à une profondeur de 10,7 m (35 pieds). On avait choisit depuis quelques années le niveau des eaux basses de 1897 afin de mesurer la
 profondeur du chenal maritime, celui-ci correspondant à une profondeur de 2,8 m d’eau au-dessus des
-hauts fonds du lac Saint-Pierre.
-3.2.1 Profondeur du chenal à 10,7 m (1910-1952)
-3.2.1.1 Les premiers travaux du chenal de 10,7 m (1910-1936)
-Le ministère de la Marine et des Pêcheries a été responsable des travaux de dragage dans le Saint-Laurent
+hauts fonds du lac Saint-Pierre.* 
+
+*3.2.1 Profondeur du chenal à 10,7 m (1910-1952)*
+
+*3.2.1.1 Les premiers travaux du chenal de 10,7 m (1910-1936)*
+
+*Le ministère de la Marine et des Pêcheries a été responsable des travaux de dragage dans le Saint-Laurent
 entre 1910 et 1936. Afin d’approfondir le chenal maritime à une profondeur minimale de 10,7 m, les
 responsables des travaux de dragage estimaient qu’il serait nécessaire de draguer 132 km des 253 km
 séparant Montréal de Québec. Les travaux de dragage ont débuté en 1910 et se sont terminés en 1952.
 Ces travaux ont été parmi les plus importants travaux de dragage accomplis dans le chenal maritime du
-Saint-Laurent au 20e siècle. Il faut aussi noter que vers 1937, on décida que la profondeur de 10,7 m allait
-être calculée à partir de l’étiage de 1934. Ceci engendra des travaux d’approfondissement
-supplémentaires.
-Jusqu’en 1930, on travaillera simultanément à l’approfondissement des sections du chenal à 10,7 m et
-dans les sections non terminées du chenal de 9,1 m (cap à la Roche, cap Charles, Sainte-Croix et SaintAugustin). La Figure 5 présente le comparatif de l’étendue des travaux de dragage qui ont été nécessaires
-pour les chenaux de 9,1 m et de 10,7 m à cette époque p. 17
+Saint-Laurent au 20e siècle. Il faut aussi noter que vers 1937, on décida que la profondeur de 10,7 m allait être calculée à partir de l’étiage de 1934. Ceci engendra des travaux d’approfondissement
+supplémentaires.*
 
-Le ministère de la Marine et des Pêcheries avait à sa disposition une flotte comprenant plusieurs dragues
-et autres embarcations qui servaient aux activités de dragage (remorqueurs, barges, etc.). Le lit du chenal
-étant composé de matières variées mais généralement dures, le ministère devaient avoir plusieurs types de
-dragues à sa disposition. Le chantier naval de Sorel continuait à servir de quartier hivernal aux dragues et
-à la machinerie du ministère.
-Pour ce qui est des chenaux de 9,1 et de 10,7 m, ce sont pratiquement les mêmes hauts-fonds qui ont été
-dragués. Seulement, les sections draguées ont été allongées et élargies (Figure 5). Une section située entre
-Lanoraie et Sorel et une autre située en face de Neuville ont été les seuls nouveaux segments liés aux
-travaux de dragage du chenal maritime de 10,7 m versus 9,1 m.
-La première guerre mondiale (1914-1918) retarda grandement les travaux de dragage dans le chenal
+*Jusqu’en 1930, on travaillera simultanément à l’approfondissement des sections du chenal à 10,7 m et
+dans les sections non terminées du chenal de 9,1 m (cap à la Roche, cap Charles, Sainte-Croix et SaintAugustin). La Figure 5 présente le comparatif de l’étendue des travaux de dragage qui ont été nécessaires pour les chenaux de 9,1 m et de 10,7 m à cette époque* p. 17
+
+*Le ministère de la Marine et des Pêcheries avait à sa disposition une flotte comprenant plusieurs dragues
+et autres embarcations qui servaient aux activités de dragage (remorqueurs, barges, etc.). Le lit du chenal étant composé de matières variées mais généralement dures, le ministère devaient avoir plusieurs types de dragues à sa disposition. Le chantier naval de Sorel continuait à servir de quartier hivernal  ux dragues et à la machinerie du ministère. Pour ce qui est des chenaux de 9,1 et de 10,7 m, ce sont pratiquement les mêmes hauts-fonds qui ont été dragués. Seulement, les sections draguées ont été allongées et élargies (Figure 5). Une section située entre Lanoraie et Sorel et une autre située en face de Neuville ont été les seuls nouveaux segments liés aux travaux de dragage du chenal maritime de 10,7 m versus 9,1 m.* 
+
+*La première guerre mondiale (1914-1918) retarda grandement les travaux de dragage dans le chenal
 maritime. Les effets de cette guerre se sont fait sentir environ deux ans après le début des hostilités en
-Europe et la flotte de dragage se trouva à être graduellement diminuée. En 1920, il ne restait que quatre
-
-
+Europe et la flotte de dragage se trouva à être graduellement diminuée. En 1920, il ne restait que quatre 
 dragues en service alors qu’il y en avait 15 avant la guerre (Ministère de la Marine et des Pêcheries,
 1929). L’ingénieur en chef des travaux dans le chenal maritime indiquait en 1929 que les travaux avaient
-environ 8 ans de retard sur le programme établi au départ en 1910.
-Devant les pressions de l’industrie maritime qui réclamait un prompt achèvement des travaux, le
+environ 8 ans de retard sur le programme établi au départ en 1910.*
+
+*Devant les pressions de l’industrie maritime qui réclamait un prompt achèvement des travaux, le
 ministère se retrouva devant deux alternatives : entreprendre un grand programme relatif à la construction
-de dragues afin d’activer les travaux, ou encore faire appel à des entreprises privées afin de faire exécuter
-plus rapidement une partie des travaux de dragage. On écarta d’emblée la première solution car on croyait
-qu’après l’achèvement des travaux du chenal de 10,7 m, les dragues construites allaient devenir inutiles et
-qu’elles resteraient en surplus aux mains du Gouvernement (Ministère de la Marine et des Pêcheries,
-1929). À partir de 1929-1930, le ministère de la Marine et des Pêcheries choisit donc d’octroyer des
-contrats à des entrepreneurs privés pour l’équivalent de la moitié des travaux de dragage qu’il restait à
-faire dans le chenal maritime de 10,7 m. Au cours des années suivantes, une compagnie telle la General
-Dredging Contractors profita largement de cette manne gouvernementale.
-En 1930, le chenal maritime de 9,1 m était enfin terminé entre Batiscan et Québec. Les sections de cap à
+de dragues afin d’activer les travaux, ou encore faire appel à des entreprises privées afin de faire exécuter plus rapidement une partie des travaux de dragage. On écarta d’emblée la première solution car on croyait qu’après l’achèvement des travaux du chenal de 10,7 m, les dragues construites allaient devenir inutiles et qu’elles resteraient en surplus aux mains du Gouvernement (Ministère de la Marine et des Pêcheries, 1929). À partir de 1929-1930, le ministère de la Marine et des Pêcheries choisit donc d’octroyer des contrats à des entrepreneurs privés pour l’équivalent de la moitié des travaux de dragage qu’il restait à faire dans le chenal maritime de 10,7 m. Au cours des années suivantes, une compagnie telle la General Dredging Contractors profita largement de cette manne gouvernementale.*
+
+*En 1930, le chenal maritime de 9,1 m était enfin terminé entre Batiscan et Québec. Les sections de cap à
 la Roche, cap Charles, Sainte-Croix et Saint-Augustin nécessitèrent plusieurs années de travail
 supplémentaire. Toujours en 1930, les travaux du chenal d’une profondeur de 10,7 m et d’une largeur de
 150 m furent terminés entre Montréal et Batiscan. Les sections en aval de Batiscan posaient encore
-problème et on ne termina celles-ci qu’en 1952.
+problème et on ne termina celles-ci qu’en 1952.*
 
-3.2.1.2 Le dragage d’entretien (1937-1946)
-En 1936, le ministère de la Marine et des Pêcheries, le ministère des Chemins de fer et Canaux ainsi que
+*3.2.1.2 Le dragage d’entretien (1937-1946)*
+
+*En 1936, le ministère de la Marine et des Pêcheries, le ministère des Chemins de fer et Canaux ainsi que
 la Direction de l’Aviation civile du ministère de la Défense ont été regroupés en une seule et même entité
 fédérale afin de former le ministère des Transports (Ministère des Transports, 1938). Ce nouveau
 ministère se vit immédiatement confier la tâche de maintenir et d’améliorer le chenal maritime du SaintLaurent entre Montréal et Québec. L’ingénieur en chef du chenal maritime du Saint-Laurent devait
 dorénavant se rapporter directement au Ministre des Transports et on créa la Division du chenal maritime
 du Saint-Laurent. À partir de 1936, cette division a été responsable du design, de la construction et du
 maintien de la profondeur du chenal pour la navigation océanique, de la gestion des glaces, des relevés et
-des navires d’inspection.
-Les années 1936-1937 ont constitué un point tournant dans l’histoire des travaux de dragage du chenal
+des navires d’inspection.*
+
+*Les années 1936-1937 ont constitué un point tournant dans l’histoire des travaux de dragage du chenal
 maritime. La flotte gouvernementale de dragues et le chantier naval de Sorel ont été vendus à des intérêts
 privés. Le chantier naval ferma ses portes peu de temps après, et à partir de 1937 les travaux de dragage
-ont été exclusivement octroyés à des compagnies privées.20
+ont été exclusivement octroyés à des compagnies privées.20 
+
 De 1936 à 1946, les travaux de dragage du chenal de 10,7 m se sont poursuivis, principalement entre cap
 à la Roche et Québec où des sections rocheuses retardaient grandement l’avancement des travaux. Le
 chenal maritime a été non seulement approfondi mais aussi élargi. La largeur minimale du chenal dans ses
@@ -571,32 +535,22 @@ dragage (barges, remorqueurs, etc.) ainsi que le chantier naval de Sorel, ont é
 Dredging Contractors pour une somme de 1 750 000 dollars. Parmi les conditions liées à cette
 transaction, la compagnie devait terminer les contrats en cours, gérer le chantier départemental et
 s’assurer que les employés du chantier naval allaient être reconduits dans les mêmes fonctions
-(Transports, 1938).
-La saison de dragage de 1938 a été la première dans l’histoire du chenal maritime du Saint-Laurent au
-cours de laquelle tous les travaux de dragage ont été effectués par l’entreprise privée. Le ministère des
-Transports mit sur pieds des programmes de contrats quinquennaux. Ceux-ci s’inscrivaient dans la
-perspective des plans d’amélioration du chenal qui visaient à élargir et à redresser celui-ci entre Montréal
-et Québec.
-Comme on l’a vu, une bonne partie des travaux du chenal de 10,7 m était terminée entre Montréal et
-Batiscan en 1930. Durant les années suivantes, le bassin du Saint-Laurent connut une période d’étiage
-intense qui eut son effet sur la profondeur disponible dans le chenal navigable. La navigation sur le SaintLaurent, et particulièrement au port de Montréal, s’en trouvait grandement affectée.
-L’Interdepartmental Montreal and Ship Channel Water Levels Board publia en 1937 un rapport
-concernant le bas niveau des eaux du fleuve Saint-Laurent et le chenal maritime. Ce conseil avait été créé
-en 1934 par le ministère de la Marine et des Pêcheries. Le bas niveau du fleuve entre 1929 et 1934
-inquiétait l’industrie maritime et le gouvernement, particulièrement les responsables du chenal maritime.
-Le conseil avait été créé afin de déterminer les causes des niveaux d’eau extrêmement bas dans le SaintLaurent et dans le port de Montréal et pour déterminer des mesures d’atténuation permettant d’augmenter
-les niveaux d’eau dans le chenal maritime du Saint-Laurent.
-Quelques recommandations du conseil ont été adoptées et mises en œuvre entre 1937 et 1946, année
-durant laquelle les contrats donnés en 1937 et leurs extensions ont été terminés. Ces recommandations ont
-poussé la Division du chenal maritime du ministère des Transports, à adopter un niveau d’eau de
-référence plus bas, les eaux basses de 1934, afin de calculer la profondeur du chenal maritime. On décida
-également d’élargir le chenal dans ses parties rectilignes à une largeur minimale de 167 m et d’élargir les
-courbes jusqu’à une largeur de 244 m.
-Le choix de se baser dorénavant sur les eaux basses de 19345 augmentait évidemment la profondeur du
-dragage à effectuer dans le chenal maritime et ce, même dans les sections qui venaient tout juste d’être
-draguées à 10,7 m au-dessous du datum de 1897. Au lac Saint-Pierre par exemple, ce changement de
-référence impliquait un dragage supplémentaire de 0,3 m (voir la section 2.3.1).
-Les contrats quinquennaux de 1937 portaient en majeure partie sur l’élargissement du chenal maritime
+(Transports, 1938).*
+
+*La saison de dragage de 1938 a été la première dans l’histoire du chenal maritime du Saint-Laurent au cours de laquelle tous les travaux de dragage ont été effectués par l’entreprise privée. Le ministère des
+Transports mit sur pieds des programmes de contrats quinquennaux. Ceux-ci s’inscrivaient dans la perspective des plans d’amélioration du chenal qui visaient à élargir et à redresser celui-ci entre ontréal et Québec.*
+
+*Comme on l’a vu, une bonne partie des travaux du chenal de 10,7 m était terminée entre Montréal et Batiscan en 1930. Durant les années suivantes, le bassin du Saint-Laurent connut une période d’étiage intense qui eut son effet sur la profondeur disponible dans le chenal navigable. La navigation sur le SaintLaurent, et particulièrement au port de Montréal, s’en trouvait grandement affectée.*
+*L’Interdepartmental Montreal and Ship Channel Water Levels Board publia en 1937 un rapport concernant le bas niveau des eaux du fleuve Saint-Laurent et le chenal maritime. Ce conseil avait été créé en 1934 par le ministère de la Marine et des Pêcheries. Le bas niveau du fleuve entre 1929 et 1934 inquiétait l’industrie maritime et le gouvernement, particulièrement les responsables du chenal maritime.*
+
+*Le conseil avait été créé afin de déterminer les causes des niveaux d’eau extrêmement bas dans le Saint-Laurent et dans le port de Montréal et pour déterminer des mesures d’atténuation permettant d’augmenter les niveaux d’eau dans le chenal maritime du Saint-Laurent.*
+
+*Quelques recommandations du conseil ont été adoptées et mises en œuvre entre 1937 et 1946, année durant laquelle les contrats donnés en 1937 et leurs extensions ont été terminés. Ces recommandations ont poussé la Division du chenal maritime du ministère des Transports, à adopter un niveau d’eau de référence plus bas, les eaux basses de 1934, afin de calculer la profondeur du chenal maritime. On décida également d’élargir le chenal dans ses parties rectilignes à une largeur minimale de 167 m et d’élargir les courbes jusqu’à une largeur de 244 m.*
+
+*Le choix de se baser dorénavant sur les eaux basses de 19345 augmentait évidemment la profondeur du dragage à effectuer dans le chenal maritime et ce, même dans les sections qui venaient tout juste d’être
+draguées à 10,7 m au-dessous du datum de 1897. Au lac Saint-Pierre par exemple, ce changement de référence impliquait un dragage supplémentaire de 0,3 m (voir la section 2.3.1).*
+
+*Les contrats quinquennaux de 1937 portaient en majeure partie sur l’élargissement du chenal maritime
 entre Batiscan et Québec et ces travaux n’ont été terminés qu’en 1946, car ils ont été considérablement
 retardés pendant la guerre. L’ouverture des hostilités en Europe en septembre 1939 eut des répercussions
 sur les activités de la Division du chenal maritime au sens où les dépenses et le travail à forfait n’ont
@@ -608,16 +562,14 @@ draguées entre 1937 et 1946 ont été approfondies en fonction du niveau de ré
 1934 et celles-ci représentaient une petite superficie du chenal maritime (Chevrier, 1959). En fait, seules
 les sections élargies à 167 m ont été draguées à une profondeur de 10,7 m (datum de 1934). C’est donc
 dire que seuls les abords du chenal avaient la nouvelle profondeur et que la plus grande superficie du
-chenal avait une profondeur de 10,7 m au datum 1897.
-Le ministère des Transports adopta également une autre proposition du rapport du conseil interministériel
+chenal avait une profondeur de 10,7 m au datum 1897.*
+
+*Le ministère des Transports adopta également une autre proposition du rapport du conseil interministériel
 de 1937, soit le dragage d’un nouveau chenal dans le secteur de Trois-Rivières. On prévoyait draguer un
 nouveau chenal au sud de celui qui était utilisé à l’époque. Le déplacement du chenal vers le centre du
-fleuve allait réduire l’effet des vagues produites par les bateaux, allait permettre plus d’espace aux navires
-quittant ou arrivant aux quais de Trois-Rivières et allait permettre enfin de lever les limitations de vitesse
-des navires (cependant cette option n’a pas été soutenue par le comité d’étude du chenal maritime en
-1946).
-L’avancement du chenal maritime de 10,7 m avança grandement durant cette période. Les travaux
-d’approfondissement et d’élargissement étaient nécessaires sur une distance d’environ 160 km. En 1942,
+fleuve allait réduire l’effet des vagues produites par les bateaux, allait permettre plus d’espace aux navires quittant ou arrivant aux quais de Trois-Rivières et allait permettre enfin de lever les limitations de vitesse des navires (cependant cette option n’a pas été soutenue par le comité d’étude du chenal maritime en 1946).*
+
+*L’avancement du chenal maritime de 10,7 m avança grandement durant cette période. Les travaux d’approfondissement et d’élargissement étaient nécessaires sur une distance d’environ 160 km. En 1942,
 on indiquait que 34 km du chenal avaient été approfondis au total alors que 40 km avaient été élargis à
 167 m. En 1944, 55 km du chenal avaient été approfondis au total alors que 45 km étaient élargis à une
 largeur minimale de 167 m. Les responsables des travaux de dragage indiquaient à l’époque qu’étant
@@ -627,62 +579,62 @@ Transports du Canada, 1944). L’année suivante, cette proportion passait à 93
 serait nécessaire de draguer un volume d’environ 3 400 000 m3 de matériel afin de compléter le projet.
 Ces travaux de dragage ont été adjugés lors de l’attribution des contrats de 1947 (Ministère des Transports
 du Canada, 1947). Entre 1937 et 1946, les responsables du chenal maritime ont aussi effectué plusieurs
-autres travaux de dragage, dans le secteur du port de Montréal par exemple
+autres travaux de dragage, dans le secteur du port de Montréal par exemple*
 
-3.2.1.3 Les améliorations apportées au chenal maritime (1946-1952)
-En 1946, le ministre des Transport, M. Lionel Chevrier, créa le Comité d’étude du chenal du SaintLaurent. Celui-ci était composé de trois membres dont les activités professionnelles étaient liées au chenal
+*3.2.1.3 Les améliorations apportées au chenal maritime (1946-1952)*
+*En 1946, le ministre des Transport, M. Lionel Chevrier, créa le Comité d’étude du chenal du SaintLaurent. Celui-ci était composé de trois membres dont les activités professionnelles étaient liées au chenal
 maritime : J. E. Saint-Laurent (Conseil des ports nationaux), F. Alport (ingénieur, Travaux publics) et F.
 S. Jones (chef ingénieur, Division du chenal maritime du Saint-Laurent du ministère des Transports).
 Le comité avait pour principale fonction d’évaluer la situation du chenal maritime du Saint-Laurent et de
 faire des recommandations quant à l’élargissement et l’approfondissement souhaités. Ce comité avait
 aussi pour mandat d’évaluer précisément les sections du fleuve qui allaient demander une amélioration
-ultérieure.
-Ce comité d’étude a produit un rapport comprenant plusieurs recommandations qui seront mises en œuvre
+ultérieure.*
+*Ce comité d’étude a produit un rapport comprenant plusieurs recommandations qui seront mises en œuvre
 au cours des années suivantes dans un nouveau plan d’amélioration du chenal maritime. Parmi ces
 recommandations, notons l’achèvement, en amont de Québec, des travaux d’approfondissement jusqu’à
 10,7 m en dessous du niveau des basses eaux de 1934 et des travaux d’élargissement des parties droites
 du chenal afin d’atteindre une largeur minimale de 167 m et jusqu’à 457 m dans les courbes. Le projet
 prévoyait aussi le creusage ou l’élargissement d’aires de mouillage ou de virage à différents endroits
 précis tels la courbe de Yamachiche dans le lac Saint-Pierre et le chenal de Longue Pointe près de
-Montréal.
-Le ministère détermina les endroits à draguer et octroya les contrats à des entrepreneurs privés. Le contrat
-de dragage de 1947 avait une durée prévue de 5 ans. Un peu plus de 70 km de dragage était prévu dans le
-chenal maritime et ce travail était réparti sur 15 sections. Les contrats de dragage comprenaient aussi les
-travaux d’entretien annuel car certaines sections se remplissaient de sédiments chaque année. La Figure 6
-comprend des informations concernant les travaux de dragage qui eurent lieu entre 1947 et 1952. La
-localisation des sections, la distance à draguer et le type d’intervention y sont décrits.
+Montréal.*
 
-3.2.3 L’élargissement majeur du chenal maritime (1954-1971)
-Pendant ces travaux de construction, le Comité du chenal maritime du Saint-Laurent présenta en 1954 un
+*Le ministère détermina les endroits à draguer et octroya les contrats à des entrepreneurs privés. Le contrat de dragage de 1947 avait une durée prévue de 5 ans. Un peu plus de 70 km de dragage était prévu dans le chenal maritime et ce travail était réparti sur 15 sections. Les contrats de dragage comprenaient aussi les travaux d’entretien annuel car certaines sections se remplissaient de sédiments chaque année.*
+
+*La Figure 6 comprend des informations concernant les travaux de dragage qui eurent lieu entre 1947 et 1952. La localisation des sections, la distance à draguer et le type d’intervention y sont décrits.*
+
+*3.2.3 L’élargissement majeur du chenal maritime (1954-1971)*
+
+*Pendant ces travaux de construction, le Comité du chenal maritime du Saint-Laurent présenta en 1954 un
 rapport qui recommandait de poursuivre l’amélioration du chenal maritime et qui établissait les
 responsabilités respectives de la Division du chenal maritime et du Conseil des Ports nationaux en ce qui
 concerne les travaux de génie et de dragage à réaliser dans les régions relevant de ces deux organismes.
 Ce rapport englobait en un seul projet de dix ans des travaux d’élargissement du chenal à un minimum de
 244 m entre le port de Montréal et Québec. Il s’agissait d’un élargissement considérable puisqu’il fallait
-en moyenne élargir le chenal de 77 m.
+en moyenne élargir le chenal de 77 m.*
 
-Jusqu’à 1971, la Division du chenal maritime du Saint-Laurent a fait effectuer des travaux
+*Jusqu’à 1971, la Division du chenal maritime du Saint-Laurent a fait effectuer des travaux
 d’élargissement majeur dans le chenal maritime et en 1971, la largeur minimale de celui-ci a été portée à
 244 m. Cet élargissement majeur s’effectua par séquences entre 1954 et 1971. La majorité des travaux ont
 été faits durant les années 1960. La division du chenal maritime attribuait des contrats aux entrepreneurs
-privés afin d’élargir le chenal.
+privés afin d’élargir le chenal.*
 
 
+*3.2.4 Les travaux récents : 1992 et 1998*
 
-3.2.4 Les travaux récents : 1992 et 1998
-Après une trêve importante des travaux de dragage de capitalisation dans le Saint-Laurent, on procéda à
+*Après une trêve importante des travaux de dragage de capitalisation dans le Saint-Laurent, on procéda à
 d’autres travaux de dragage d’importance en 1992. L’objectif de ces travaux était d’approfondir le chenal
 maritime de 0,3 m afin de porter sa profondeur à 11 m entre Montréal et Deschaillons. La Société du port
 de Montréal déboursa 75 % des 2 millions de dollars nécessaires. Ces travaux avaient pour objectifs de
 prévenir les accidents maritimes et d’attirer de plus gros navires au port de Montréal. Les compagnies
 maritimes soutenaient que la profondeur minimale garantie dans le chenal, soit 10,7 m, n’était pas
-toujours respectée durant les périodes de basses eaux.
-En 1992, des travaux de développement du chenal ont été entrepris sur la base d’une entente de
+toujours respectée durant les périodes de basses eaux.*
+
+*En 1992, des travaux de développement du chenal ont été entrepris sur la base d’une entente de
 partenariat entre la GCC et certains ports du Saint-Laurent. Ainsi entre Montréal et Deschaillons, les
 travaux de dragage ont fait passer la profondeur garantie du chenal de 10,7 à 11 m sur une largeur de 230
-m des 245 m de la larg
+m des 245 m de la larg*
 
-En 1998, la Société du port de Montréal commanda encore une fois des travaux d’approfondissement du
+*En 1998, la Société du port de Montréal commanda encore une fois des travaux d’approfondissement du
 chenal maritime. Ces travaux constituaient en un dragage sélectif des hauts-fonds entre Montréal et
 Deschaillons. On visait à porter la profondeur minimale du chenal à 11,3 m. Cette profondeur de 11,3 m
 existait déjà sur 98% de la superficie du chenal de navigation entre Montréal et Deschaillons.
@@ -690,52 +642,52 @@ Ce projet de dragage sélectif a été grandement controversé. Les impacts envi
 des dépôts de dragage ont été au cœur de multiples débats. Les travaux ont débuté en dépit de toutes les
 pressions faites par des groupes environnementaux, entre autres la Société pour vaincre la pollution et
 l’Union Saint-Laurent-Grands-Lacs, envers les gouvernements et la Société du port de Montréal pour que
-soient tenues des audiences publiques concernant le projet
-Cette forte controverse n’empêcha pas les travaux de débuter en septembre 1998 et de se terminer durant
+soient tenues des audiences publiques concernant le projet*
+
+*Cette forte controverse n’empêcha pas les travaux de débuter en septembre 1998 et de se terminer durant
 la saison de 1999. Les travaux financés en totalité par la Société du port de Montréal consistèrent à
 l’écrêtement de 30 cm sur 36 hauts-fonds entre Montréal et Deschaillons afin d’assurer une profondeur
 minimale de 11,3 m. Au total, c’est environ 350 000 m3 de sédiments qui ont été extirpés du fleuve Saint
 Laurent. Ceux-ci ont été déposés en dix lieux différents. La cartographie des travaux de 1998 a été
-effectuée en utilisant la méthodologie décrite plus haut.
-La controverse liée à ce projet a atteint son paroxysme lorsque plusieurs groupes environnementaux et
+effectuée en utilisant la méthodologie décrite plus haut.*
+
+*La controverse liée à ce projet a atteint son paroxysme lorsque plusieurs groupes environnementaux et
 plusieurs résidents du lac Saint-Pierre ont refusé catégoriquement que soient déposés des sédiments de
 dragage à même le lac, aux sites de dépôts conçus par la GCC en face de Yamachiche, le long du chenal
-maritime.
+maritime.*
 
-
-La Figure 9 illustre l’évolution de la distribution spatiale des travaux de dragage depuis les premiers
+*La Figure 9 illustre l’évolution de la distribution spatiale des travaux de dragage depuis les premiers
 travaux qui ont été effectués en 1847. Comme nous l’avons vu plus haut, l’information précise concernant
 la distribution spatiale de chaque séquence de travaux de dragage est contenue sur un support SIG qui
-permet sa visualisation en détails.
+permet sa visualisation en détails.*
 
 *Figure 9 : Évolution des superficies draguées dans le fleuve Saint-Laurent entre 1847 et aujourd’hui*
 
 *Figure 12 : Superficies draguées entre 1907 et 1998 dans le secteur du lac Saint-Pierre*
 
 
-3.2.7 Dragage d’entretien
-Les ministères qui ont été successivement responsables du dragage de capitalisation avaient également la
+*3.2.7 Dragage d’entretien*
+
+*Les ministères qui ont été successivement responsables du dragage de capitalisation avaient également la
 responsabilité des travaux de dragage d’entretien dans le chenal maritime. Ces travaux étaient aussi
 attribués par contrats à des entrepreneurs privés. De manière générale, le chenal maritime entre Montréal
 et Québec est relativement exempt du phénomène d’envasement étant donné la nature du lit du fleuve qui
-est composé surtout de glaise et de roche. 
+est composé surtout de glaise et de roche.* 
 
-Les
-rapports annuels du ministère des Transports contiennent des informations sur les travaux d’entretien du
-chenal maritime qui ont eu lieu entre 1936 et 1971. Les données sont assez précises jusqu’en 1952
+*Les rapports annuels du ministère des Transports contiennent des informations sur les travaux d’entretien du chenal maritime qui ont eu lieu entre 1936 et 1971. Les données sont assez précises jusqu’en 1952
 environ. Dans ces rapports, les travaux d’entretien de chaque section sont décrits en termes de lieu, de
 temps et de volume dragué. On apprend dans ces rapports qu’en 1939, les responsables du dragage ont
-fait disparaître les restes d’une veille épave de navire dans le chenal du lac Saint-Pierre. 
+fait disparaître les restes d’une veille épave de navire dans le chenal du lac Saint-Pierre.*
 
-
-Selon une étude de Procéan (1996), certaines sections du chenal devaient être draguées régulièrement
+*Selon une étude de Procéan (1996), certaines sections du chenal devaient être draguées régulièrement
 étant donné leurs conditions hydrodynamiques et sédimentologiques particulières. Entre Montréal et
 Sorel, le chenal ne demande aucun travail d’entretien. De Sorel à Port Saint-François, des travaux de
 dragage doivent être effectués régulièrement. Les îles de Sorel et le lac Saint-Pierre, surtout dans les
 courbes du chenal, constituent d’importantes zones de sédimentation, et des travaux réguliers de dragage
 d’entretien sont encore nécessaires. Enfin entre Trois-Rivières et cap à la Roche, quelques sections
-demandent des dragages d’entretien.
-En 1997, il a été décidé que la GCC ne financerait plus aucun dragage dans toutes les régions du Canada.
+demandent des dragages d’entretien.*
+
+*En 1997, il a été décidé que la GCC ne financerait plus aucun dragage dans toutes les régions du Canada.
 Dans le Saint-Laurent, les dépenses annuelles à l’égard des contrats de dragage représentaient environ 2.9
 millions de dollars : 1 million pour le secteur en amont du Port de Québec jusqu’à Montréal et 1.9
 millions pour le secteur de la traverse du Nord juste en aval de Québec (Pêches et Océans Canada, 2003).
@@ -744,208 +696,148 @@ Afin de financer les travaux de dragage d’entretien, il a été décidé d’�
 de navigation. La GCC a encore aujourd’hui la responsabilité d’octroyer les contrats de dragage
 d’entretien à des compagnies privées. Le Tableau 1 comprend le résumé des données que nous avons pu
 acquérir concernant les dragages d’entretien qui ont été effectués dans le lac Saint-Pierre au cours des
-années. Ces données sont tirées de Travaux Publics (1989). Le matériel dragué est constitué de sable.
+années. Ces données sont tirées de Travaux Publics (1989). Le matériel dragué est constitué de sable.*
 
-3.3 La mise en dépôt de matériel dragué dans le Saint-Laurent
-Au cours du 20e siècle, on estime qu’environ 175 millions de m3 de sédiments ont été dragués à même le
-lit du Saint-Laurent (estimation faite à partir des rapports annuels des ministères responsables des travaux
-de dragage, de Procéan (1996), de Vigneault (1978) et des données récentes de la GCC). Au 20e siècle,
-les dépôts ont été longtemps déposés stratégiquement le long du chenal maritime de manière à augmenter
-son débit et à faciliter la navigation. Une portion substantielle du matériel dragué a été aussi déposée le
-long des rives des îles du Saint-Laurent ou encore directement sur les îles ou sur la terre ferme. Depuis les
-années 1960, la GCC est responsable de la planification des activités de dragage et de dépôts des déblais,
-et elle a créé des aires de dépôts officielles à divers endroits dans le Saint-Laurent. Depuis quelques
-années, des techniques d’atténuation des impacts du dépôt de matériel dragué sur l’environnement ont été
-développées et des options telles le dépôt en terre ferme, en marais ou les dépôts contrôlés, peuvent être
-privilégiées.
-Même si pour plusieurs raisons cette tâche s’avère fastidieuse, il est nécessaire de connaître l’évolution et
-la distribution des dépôts de matériaux dragués depuis 100 ans afin d’être en mesure de comprendre
-l’impact de ces dépôts sur la dynamique fluviale.
+*3.3 La mise en dépôt de matériel dragué dans le Saint-Laurent*
 
-3.3.2 Les principaux secteurs de dépôts
+*Au cours du 20e siècle, on estime qu’environ 175 millions de m3 de sédiments ont été dragués à même le
+lit du Saint-Laurent (estimation faite à partir des rapports annuels des ministères responsables des travaux de dragage, de Procéan (1996), de Vigneault (1978) et des données récentes de la GCC). Au 20e siècle, les dépôts ont été longtemps déposés stratégiquement le long du chenal maritime de manière à augmenter son débit et à faciliter la navigation. Une portion substantielle du matériel dragué a été aussi déposée le long des rives des îles du Saint-Laurent ou encore directement sur les îles ou sur la terre ferme. Depuis les années 1960, la GCC est responsable de la planification des activités de dragage et de dépôts des déblais, et elle a créé des aires de dépôts officielles à divers endroits dans le Saint-Laurent. Depuis quelques années, des techniques d’atténuation des impacts du dépôt de matériel dragué sur l’environnement ont été développées et des options telles le dépôt en terre ferme, en marais ou les dépôts contrôlés, peuvent être privilégiées.*
 
-Il existe deux types de sites de dépôt pour déblais de dragage dans le Saint-Laurent : les zones de dépôts
-en eau libre et les aires de dépôts contrôlées. Durant toute l’histoire des travaux de dragage dans le SaintLaurent, le matériel dragué a été déposé à divers endroits à même le fleuve, parfois sans trop
-d’organisation mais le plus souvent déposé le long du chenal maritime par soucis d’économie. Quelques
-fois le matériel a été utilisé pour remblayer les quais. Entre 1937 et 1946, les matériaux dragués ont été
-déposés, comme le suggérait le rapport du conseil interministériel en 1937, à des endroits spécifiques de
-manière à compenser les effets du dragage effectué. On ne connaît malheureusement pas le lieu précis où
-a été déposé le matériel, mais les responsables du dragage indiquent que le dépôt de matériaux dragué a
-permis des améliorations notables des niveaux d’eau à plusieurs endroits dans le fleuve Saint-Laurent
-(Transports, 1946). Plusieurs dépôts ont été effectués sur des îles du Saint-Laurent, ayant ainsi des
-répercussions sur leur élévation et leur drainage. La localisation de ces sites « modifiés » est difficile étant
-donné la rareté des sources et l’étendue de la période pendant laquelle se firent des dépôts de dragage.
+*Même si pour plusieurs raisons cette tâche s’avère fastidieuse, il est nécessaire de connaître l’évolution et la distribution des dépôts de matériaux dragués depuis 100 ans afin d’être en mesure de comprendre l’impact de ces dépôts sur la dynamique fluviale.*
 
-Il existe deux types de sites de dépôt pour déblais de dragage dans le Saint-Laurent : les zones de dépôts
-en eau libre et les aires de dépôts contrôlées. Durant toute l’histoire des travaux de dragage dans le SaintLaurent, le matériel dragué a été déposé à divers endroits à même le fleuve, parfois sans trop
-d’organisation mais le plus souvent déposé le long du chenal maritime par soucis d’économie. Quelques
-fois le matériel a été utilisé pour remblayer les quais. Entre 1937 et 1946, les matériaux dragués ont été
-déposés, comme le suggérait le rapport du conseil interministériel en 1937, à des endroits spécifiques de
-manière à compenser les effets du dragage effectué. On ne connaît malheureusement pas le lieu précis où
-a été déposé le matériel, mais les responsables du dragage indiquent que le dépôt de matériaux dragué a
-permis des améliorations notables des niveaux d’eau à plusieurs endroits dans le fleuve Saint-Laurent
-(Transports, 1946). Plusieurs dépôts ont été effectués sur des îles du Saint-Laurent, ayant ainsi des
-répercussions sur leur élévation et leur drainage. La localisation de ces sites « modifiés » est difficile étant
-donné la rareté des sources et l’étendue de la période pendant laquelle se firent des dépôts de dragage.
+*3.3.2 Les principaux secteurs de dépôts*
+
+*Il existe deux types de sites de dépôt pour déblais de dragage dans le Saint-Laurent : les zones de dépôts
+en eau libre et les aires de dépôts contrôlées. Durant toute l’histoire des travaux de dragage dans le Saint-Laurent, le matériel dragué a été déposé à divers endroits à même le fleuve, parfois sans trop d’organisation mais le plus souvent déposé le long du chenal maritime par soucis d’économie. Quelques fois le matériel a été utilisé pour remblayer les quais. Entre 1937 et 1946, les matériaux dragués ont été déposés, comme le suggérait le rapport du conseil interministériel en 1937, à des endroits spécifiques de manière à compenser les effets du dragage effectué. On ne connaît malheureusement pas le lieu précis où a été déposé le matériel, mais les responsables du dragage indiquent que le dépôt de matériaux dragué a permis des améliorations notables des niveaux d’eau à plusieurs endroits dans le fleuve Saint-Laurent (Transports, 1946). Plusieurs dépôts ont été effectués sur des îles du Saint-Laurent, ayant ainsi des répercussions sur leur élévation et leur drainage. La localisation de ces sites « modifiés » est difficile étant donné la rareté des sources et l’étendue de la période pendant laquelle se firent des dépôts de dragage.*
+
+Il existe deux types de sites de dépôt pour déblais de dragage dans le Saint-Laurent : les zones de dépôts en eau libre et les aires de dépôts contrôlées. Durant toute l’histoire des travaux de dragage dans le SaintLaurent, le matériel dragué a été déposé à divers endroits à même le fleuve, parfois sans trop d’organisation mais le plus souvent déposé le long du chenal maritime par soucis d’économie. Quelques fois le matériel a été utilisé pour remblayer les quais. Entre 1937 et 1946, les matériaux dragués ont été déposés, comme le suggérait le rapport du conseil interministériel en 1937, à des endroits spécifiques de manière à compenser les effets du dragage effectué. On ne connaît malheureusement pas le lieu précis où a été déposé le matériel, mais les responsables du dragage indiquent que le dépôt de matériaux dragué a permis des améliorations notables des niveaux d’eau à plusieurs endroits dans le fleuve Saint-Laurent (Transports, 1946). Plusieurs dépôts ont été effectués sur des îles du Saint-Laurent, ayant ainsi des répercussions sur leur élévation et leur drainage. La localisation de ces sites « modifiés » est difficile étant donné la rareté des sources et l’étendue de la période pendant laquelle se firent des dépôts de dragage.
 
 3.3.2.1 Delta des îles de Sorel
 Plusieurs sites contrôlés ont été utilisés pour le dépôt de sédiments de dragage. Dans le rapport annuel de
-1915 du ministère de la Marine et des Pêcheries, on indique que conformément à la recommandation des
-membres de la commission nommée pour faire enquête et rapport sur le régime des eaux du fleuve SaintLaurent à Montréal et en aval de cette ville, on a commencé à construire des digues compensatoires. Afin
-de diminuer le coût des travaux, il a été décidé de se servir autant que possible des matériaux de dragage
-provenant du chenal maritime et de déposer ces matériaux sur les emplacements des digues projetées. En
-1915, des matériaux de dragage ont été donc déposés sur les futurs sites des reversoirs des îles de Sorel :
-dans le chenal aux Corbeaux (entre l’île de Grâce et l’île Lapierre), dans le chenal des Barques (entre l’île
-aux Barques et l’île du Moine), et dans le chenal du Moine. En 1915, on déposa aussi du matériel dragué
-en face de Repentigny, entre l’île à la Bague et l’île Bellegarde, et dans le secteur de Pointe du lac, à
-l’endroit où des seuils naturels ont été enlevés vers la fin du 19e siècle.
-p.40
+1915 du ministère de la Marine et des Pêcheries, on indique que conformément à la recommandation des membres de la commission nommée pour faire enquête et rapport sur le régime des eaux du fleuve SaintLaurent à Montréal et en aval de cette ville, on a commencé à construire des digues compensatoires. Afin de diminuer le coût des travaux, il a été décidé de se servir autant que possible des matériaux de dragage provenant du chenal maritime et de déposer ces matériaux sur les emplacements des digues projetées. En 1915, des matériaux de dragage ont été donc déposés sur les futurs sites des reversoirs des îles de Sorel : dans le chenal aux Corbeaux (entre l’île de Grâce et l’île Lapierre), dans le chenal des Barques (entre l’île aux Barques et l’île du Moine), et dans le chenal du Moine. En 1915, on déposa aussi du matériel dragué en face de Repentigny, entre l’île à la Bague et l’île Bellegarde, et dans le secteur de Pointe du lac, à l’endroit où des seuils naturels ont été enlevés vers la fin du 19e siècle. p.40
 
-Selon le rapport annuel du ministère de la Marine et des Pêcheries (1929), on utilisa des matériaux de
-dragage comme matériel de remplissage pour la construction de nouveaux quais des ports du Saint
-Laurent. Cela a été le cas en 1915 pour les nouveaux quais du chantier naval de Sorel. Cette façon de faire
-avait été adoptée également par les Commissaires du port de Montréal au 19e siècle.
-Dans le secteur des îles de Sorel, on utilisa entre 1916 et 1930 quelques zones afin de déposer le matériel
-dragué lors des travaux du chenal de 10,7 m. Ces zones sont situées de part et d’autres du chenal maritime
-et sont cartographiées sur la carte du ministère de la Marine et des Pêcheries et annotée par l’hydrographe
-Parizeau en 1938.
+*Selon le rapport annuel du ministère de la Marine et des Pêcheries (1929), on utilisa des matériaux de
+dragage comme matériel de remplissage pour la construction de nouveaux quais des ports du Saint Laurent. Cela a été le cas en 1915 pour les nouveaux quais du chantier naval de Sorel. Cette façon de faire avait été adoptée également par les Commissaires du port de Montréal au 19e siècle. Dans le secteur des *îles de Sorel, on utilisa entre 1916 et 1930 quelques zones afin de déposer le matériel dragué lors des travaux du chenal de 10,7 m. Ces zones sont situées de part et d’autres du chenal maritime et sont cartographiées sur la carte du ministère de la Marine et des Pêcheries et annotée par l’hydrographe Parizeau en 1938.
 Dans cette section du chenal maritime, les travaux subséquents ont eu lieu entre 1940 et 1946 alors que
 l’on redressa considérablement le chenal maritime entre l’île Lapierre et l’île du Moine. Dans le secteur
 fluvial des îles de Sorel, les aires de dépôt créées par la GCC ont été utilisées pour le dépôt de matériel
-provenant des travaux d’approfondissement de 1992 et de 1998. Ces aires, au nombre de 4 et
-cartographiées sur les cartes marines actuelles, sont situées le long du rivage sud de l’île Saint-Ignace.
-3.3.2.2 Lac Saint-Pierre
-Au fil des années, un important volume de sédiments dragués a été déposé le long du chenal maritime du
+provenant des travaux d’approfondissement de 1992 et de 1998. Ces aires, au nombre de 4 et cartographiées sur les cartes marines actuelles, sont situées le long du rivage sud de l’île Saint-Ignace.* 
+
+*3.3.2.2 Lac Saint-Pierre*
+*Au fil des années, un important volume de sédiments dragués a été déposé le long du chenal maritime du
 lac Saint-Pierre. Vers le milieu du 19e siècle, les responsables des travaux de dragage désiraient déposer
 les dépôts de dragage sur une ligne au sud du chenal afin de canaliser celui-ci et afin d’éviter des
-effondrements causés par les courants et les vagues.
-La Figure 16 montre une partie des zones de dépôt de dragage du lac Saint-Pierre utilisées au cours du 20e
+effondrements causés par les courants et les vagues.*
+
+*La Figure 16 montre une partie des zones de dépôt de dragage du lac Saint-Pierre utilisées au cours du 20e
 siècle. Ces zones sont situées le long du chenal maritime (bandes jaunes et rouge là où il y a eu le plus
-d’accumulation) et on peut aussi apercevoir les îlots artificiels qui ont été construits dans les années 1960
-en bordure du chenal maritime (centre du lac). Dans ce secteur, les zones de dépôt forment deux bandes
+d’accumulation) et on peut aussi apercevoir les îlots artificiels qui ont été construits dans les années 1960 en bordure du chenal maritime (centre du lac). Dans ce secteur, les zones de dépôt forment deux bandes
 continues longeant le chenal de part et d’autre. Une zone de dépôt importante se trouve directement au
 sud de l’ancrage de Yamachiche (Figure 17). Cette cartographie a été effectuée à partir des données du
-MNT du fleuve Saint-Laurent qui a été développé par Environnement Canada. p41
-Les limites géographiques des
-aires de dépôt sont cartographiées sur la carte marine actuelle du lac Saint-Pierre.
-Depuis environ 50 ans, les dépôts des matériaux de dragage se sont principalement faits au centre du lac
-(ce qu’on appelait autrefois les flats ou les hauts fonds du lac Saint-Pierre), de part et d’autre du chenal
-maritime sur de grandes superficies longilignes
+MNT du fleuve Saint-Laurent qui a été développé par Environnement Canada.* p41
+*Les limites géographiques des aires de dépôt sont cartographiées sur la carte marine actuelle du lac Saint-Pierre. Depuis environ 50 ans, les dépôts des matériaux de dragage se sont principalement faits au centre du lac (ce qu’on appelait autrefois les flats ou les hauts fonds du lac Saint-Pierre), de part et d’autre du chenal maritime sur de grandes superficies longilignes*
 
-Il est important de noter que le dépôt de sédiments provenant des activités de dragage a fait l’objet de
+*Il est important de noter que le dépôt de sédiments provenant des activités de dragage a fait l’objet de
 plusieurs controverses au cours des dernières années, en particulier au lac Saint-Pierre. En 1988 par
 exemple, la GCC avait retenu un emplacement pour un site de dépôt, qui se trouvait dans les limites d’un
 important site de pêche commerciale. À l’époque, divers intervenants et utilisateurs du lac craignaient que
 le choix de ce site ne provoque une perturbation et une forte baisse des activités de pêche. À la demande
 du ministère des Loisirs, de la Chasse et de la Pêche, la GCC adopta un nouvel emplacement pour son site
-de dépôt.
-Au cours des dernières années, la GCC a fait effectuer des travaux de dragage dans le chenal maritime : le
+de dépôt.*
+
+*Au cours des dernières années, la GCC a fait effectuer des travaux de dragage dans le chenal maritime : le
 projet de dragage de 1992, le projet du dragage sélectif de 1998 et plusieurs travaux d’entretien du chenal
 maritime ou encore dans le Port de Sorel. Au fil des ans et parallèlement, des recherches ont montrées que
 le lit du Saint-Laurent contenait des contaminants aux métaux lourds. En 1992, on établissait les
-« Critères intérimaires pour l’évaluation de la qualité des sédiments du Saint-Laurent » (Centre Saint
-*Figure 17 : Zones utilisées au 20e pour le dépôt de matériel dragué dans le tronçon fluvial du lac SaintPierre*
-Laurent et MEQ, 1992) afin de déterminer des seuils d’effets mineurs des contaminants sur le milieu et
+« Critères intérimaires pour l’évaluation de la qualité des sédiments du Saint-Laurent » (Centre Saint Laurent et MEQ, 1992) afin de déterminer des seuils d’effets mineurs des contaminants sur le milieu et
 ainsi mieux gérer, dans ce cas ci, les déversements de sédiments dans le Saint-Laurent.
 En 1998, lorsqu’a été prise la décision de déverser du matériel dragué dans le lac Saint-Pierre en face du
 village de Yamachiche, celui-ci provenant entre autres du Port de Sorel et de la rivière Richelieu, les
 résidents de cet endroit et quelques groupes environnementaux ont critiqué fortement cette pratique
 (Trahan, 1998). On accusa les responsables du dragage et le ministère de l’Environnement du Québec de
 ne pas ternir compte du rapport du BAPE (1998), celui-ci ayant conclu que le rejet de sédiments dans le
-lac Saint-Pierre était inacceptable et nuisible pour l’écosystème.
+lac Saint-Pierre était inacceptable et nuisible pour l’écosystème.*
 
+*Figure 17 : Zones utilisées au 20e pour le dépôt de matériel dragué dans le tronçon fluvial du lac SaintPierre*
 
-3.3.2.6.4 Dépôts terrestres
-Depuis quelques années, on semble vouloir privilégier les techniques de mise en dépôt terrestre. Cette
+*3.3.2.6.4 Dépôts terrestres*
+
+*Depuis quelques années, on semble vouloir privilégier les techniques de mise en dépôt terrestre. Cette
 pratique n’est certainement pas une nouveauté puisqu’on pratique le dépôt en berges depuis le 19e siècle.
 Nombreuses sont les îles sur lesquelles a été déposé du matériel dragué. Ces opérations ne sont
 malheureusement pas documentées. Parmi les dépôts terrestres les plus connus, mentionnons les battures
 Tailhandier, les îles de Sorel et les battures de Beauport près du port de Québec. Durant les années 1960-
 1970, l’autorité du port de Québec se servit du matériel dragué dans le port afin de remblayer les battures
-de Beauport.
-3.4 Les reversoirs des îles de Sorel
-À la suite d’une étude sur les niveaux d’eau entre Montréal et le lac Saint-Pierre (CDMF, 1915), le
+de Beauport.*
+
+*3.4 Les reversoirs des îles de Sorel*
+
+*À la suite d’une étude sur les niveaux d’eau entre Montréal et le lac Saint-Pierre (CDMF, 1915), le
 ministère de la Marine et des Pêcheries du Canada décida de faire construire cinq reversoirs entre les
 chenaux des îles de Sorel. Cette étude suggérait la construction de ces cinq ouvrages pour faire remonter
 le niveau d’eau jusqu’au port de Montréal et pallier à une baisse éventuelle du niveau d’eau qui pourrait
-nuire aux activités de navigation commerciale.
-Les reversoirs ont été mis en place entre novembre 1928 et septembre 1931 (Pasin, 1979; Briand, 1963)
+nuire aux activités de navigation commerciale.*
+
+*Les reversoirs ont été mis en place entre novembre 1928 et septembre 1931 (Pasin, 1979; Briand, 1963)
 entre les îles 1) aux Barques et du Moine, 2) de Grâce et Ronde, 3) Ronde et Madame, 4) Saint-Ignace et
-Dorvilliers et 5) Dorvilliers et du Milieu (Figure 19).
-Les forts débits et la glace ont érodé à plusieurs reprises les reversoirs, qu’on a dû réparer au cours des
-années 1930 et 1940. En 1941, on stabilisa les reversoirs et on les ramena à la cote de conception de 1931
-(Briand, 1963). On effectua par la suite d’autres travaux de stabilisation en 1953, 1962, 1965 et 1995.
-L’impact des reversoirs sur les niveaux d’eau a été estimé à une augmentation de 0,12 m au port de
+Dorvilliers et 5) Dorvilliers et du Milieu (Figure 19).*
+
+*Les forts débits et la glace ont érodé à plusieurs reprises les reversoirs, qu’on a dû réparer au cours des années 1930 et 1940. En 1941, on stabilisa les reversoirs et on les ramena à la cote de conception de 1931 (Briand, 1963). On effectua par la suite d’autres travaux de stabilisation en 1953, 1962, 1965 et 1995. L’impact des reversoirs sur les niveaux d’eau a été estimé à une augmentation de 0,12 m au port de
 Montréal et de 0,29 m à Sorel (Dumont, 1996). Le débit dans le chenal principal aurait été augmenté de
 25% à 85% du débit total (Briand, 1963). Dumont (1996), dans une étude sur modèle 1D (STLT) des
 impacts des reversoirs a conclu à un effet plus faible, soit une augmentation de 0,01 à 0,07 m au port de
-Montréal et de 0,04 à 0,18 m à Sorel variant selon l’hydraulicité
+Montréal et de 0,04 à 0,18 m à Sorel variant selon l’hydraulicité* à
 
+*Figure 19 : Emplacement des reversoirs des Îles de Sorel construits entre 1928 et 1931*
 
+*3.5 Le contrôle des glaces du Saint-Laurent p.49*
 
+*a GCC installe à l’extérieur du chenal du lac Saint-Pierre des estacades afin de favoriser la formation d'une couche de glace protectrice solide empêchant la production de monceaux de glace et accélérer les courants dans le chenal, facilitant l'évacuation des glaces. Ces ouvrages sont installés à l’automne et enlevés au printemps.*
 
-Figure 19 : Emplacement des reversoirs des Îles de Sorel construits entre 1928 et 1931
-
-
-3.5 Le contrôle des glaces du Saint-Laurent p.49
-a GCC installe à l’extérieur du chenal du lac Saint-Pierre
-des estacades afin de favoriser la formation d'une couche de glace protectrice solide empêchant la
-production de monceaux de glace et accélérer les courants dans le chenal, facilitant l'évacuation des
-glaces. Ces ouvrages sont installés à l’automne et enlevés au printemps.
-En 1964-1965, on construisit l’estacade du pont Champlain dans le bassin de Laprairie. Cette structure
+*En 1964-1965, on construisit l’estacade du pont Champlain dans le bassin de Laprairie. Cette structure
 permanente était destinée à faciliter la formation d’un couvert de glace, à empêcher la formation des
-glaces dans le port de Montréal et à contrôler la débâcle printanière. Cet ouvrage se trouve à l’extérieur de
-notre tronçon d’étude mais nous devons le considérer étant donné l’impact qu’il a sur le mouvement des
+glaces dans le port de Montréal et à contrôler la débâcle printanière. Cet ouvrage se trouve à l’extérieur de notre tronçon d’étude mais nous devons le considérer étant donné l’impact qu’il a sur le mouvement des
 glaces et sur l’écoulement du fleuve. Cet ouvrage est géré par la GCC depuis 1966. L’ouvrage comporte
 72 piliers en béton. La position géographique précise des piliers a été numérisée et intégrée au modèle
-numérique de terrain d’Environnement Canada.
-La création de structures permanentes servant à la gestion des glaces a donc été principalement effectuée
-dans le secteur du lac Saint-Pierre. 
+numérique de terrain d’Environnement Canada.*
 
+*La création de structures permanentes servant à la gestion des glaces a donc été principalement effectuée
+dans le secteur du lac Saint-Pierre.*
 
+**Ce lac est probablement l’endroit où le passage des navires est le plus difficile dans le Saint-Laurent.** 
 
-**Ce lac est probablement l’endroit où le passage des navires est le plus difficile dans le Saint-Laurent.** L’ouverture du chenal maritime à la navigation hivernale a permis de
-contrôler en grande partie les embâcles et les inondations associées. À partir de l’hiver 1963-1964, le passage au travers des glaces du lac Saint-Pierre a été rendu possible grâce à l’utilisation continue de brise-glaces dégageant le chenal de navigation. Toutefois, l’ouverture du chenal au lac Saint-Pierre créa aussi des problèmes de stabilité du couvert de glace de chaque côté du chenal lors d’événements de forts vents latéraux ou de fluctuations importantes du niveau d’eau (Travaux publics Canada, 1988).
+*L’ouverture du chenal maritime à la navigation hivernale a permis de
+contrôler en grande partie les embâcles et les inondations associées. À partir de l’hiver 1963-1964, le passage au travers des glaces du lac Saint-Pierre a été rendu possible grâce à l’utilisation continue de brise-glaces dégageant le chenal de navigation. Toutefois, l’ouverture du chenal au lac Saint-Pierre créa aussi des problèmes de stabilité du couvert de glace de chaque côté du chenal lors d’événements de forts vents latéraux ou de fluctuations importantes du niveau d’eau (Travaux publics Canada, 1988).*
 
-Après quelques études sur l’amélioration des conditions de navigation hivernale, le ministère des
+*Après quelques études sur l’amélioration des conditions de navigation hivernale, le ministère des
 Transports du Canada a fait construire en 1967 et 1968 une première série d’îlots artificiels (îlots 1 à 4)
 situés au nord-est du chenal (Figure 20). En 1984 et 1985, cinq nouveaux îlots ont été construits du côté
-sud-ouest du chenal (îlots B à F) afin de favoriser la formation du couvert et stabiliser la glace de rive à
-l’amont du lac (Siles, 2000). Depuis leur installation, les îlots ont fait l’objet de travaux majeurs de
+sud-ouest du chenal (îlots B à F) afin de favoriser la formation du couvert et stabiliser la glace de rive à l’amont du lac (Siles, 2000). Depuis leur installation, les îlots ont fait l’objet de travaux majeurs de
 stabilisation et de réparation (1967, 1976, 1977, 1988 et 1993), principalement en raison de l’instabilité
-du lit du lac, qui est constitué d’argile et qui subit une érosion causée par les courants, les glaces et les
-vagues
+du lit du lac, qui est constitué d’argile et qui subit une érosion causée par les courants, les glaces et les vagues*
 
-3.6 Les travaux de génie civil
-Au cours du 20e siècle, de nombreux travaux de génie civil ont transformé à divers degré le lit et les rives
-du fleuve Saint-Laurent entre Montréal et Québec. Parmi les travaux majeurs, il y eut la construction de
-plusieurs ponts, la construction d’un pont-tunnel, les travaux nécessaires à la préparation de l’Exposition
-Universelle de 1967 et plusieurs travaux de remblayage et d’artificialisation des rives. Certains travaux
-mineurs sont aussi sommairement documentés dans la section suivante : creusage de tranchées dans le lit
-du fleuve pour le passage de pipelines et de fils électriques et interventions en rives pour fins de
-stabilisation ou le remplissage de milieux humides.
+*3.6 Les travaux de génie civil*
 
+*Au cours du 20e siècle, de nombreux travaux de génie civil ont transformé à divers degré le lit et les rives du fleuve Saint-Laurent entre Montréal et Québec. Parmi les travaux majeurs, il y eut la construction de plusieurs ponts, la construction d’un pont-tunnel, les travaux nécessaires à la préparation de l ’Exposition Universelle de 1967 et plusieurs travaux de remblayage et d’artificialisation des rives. Certains travaux mineurs sont aussi sommairement documentés dans la section suivante : creusage de tranchées dans le lit du fleuve pour le passage de pipelines et de fils électriques et interventions en rives pour fins de stabilisation ou le remplissage de milieux humides.
 
-3.7.3 Île aux Sternes
-En 1965, on utilisa du matériel provenant des travaux de dragage effectués dans le secteur de Port-SaintFrançois afin de créer l’île aux Sternes à la sortie du lac Saint-Pierre. En utilisant plus de 1,3 millions de
-m3 de sédiments dragués (limon et argile), on créa tout d’abord une jetée en continuité de la rive Nord du
-Saint-Laurent (Comité d’étude sur le fleuve Saint-Laurent, 1978). En 1968, Transports Canada fit creuser
-un canal le long de l’ancienne rive, ce qui fit en sorte de transformer la jetée en île proprement dite.
-Durant les travaux, on déposa le matériel de l’excavation (un volume de 12 000 m3) sur la partie nord de
-l’île, créant ainsi une certaine élévation dans ce secteur. Cette île ayant une superficie de 0,36 km2 a été
-désignée Réserve écologique en 1981
+*3.7.3 Île aux Sternes
 
-3.7.4 Autres interventions
-Plusieurs autres interventions de moindre envergure ont été effectuées le long du Saint-Laurent au 20e
-siècle et ont aussi affecté ses rives ; il serait certes fastidieux de les énumérer et décrire toutes. En voici
-toutefois quelques exemples :58
-• Travaux de l’Autoroute 20 sur la rive sud de Montréal et de l’Autoroute 40 au lac Saint-Pierre;
+*En 1965, on utilisa du matériel provenant des travaux de dragage effectués dans le secteur de Port-SaintFrançois afin de créer l’île aux Sternes à la sortie du lac Saint-Pierre. En utilisant plus de 1,3 millions de m3 de sédiments dragués (limon et argile), on créa tout d’abord une jetée en continuité de la rive Nord du Saint-Laurent (Comité d’étude sur le fleuve Saint-Laurent, 1978). En 1968, Transports Canada fit creuser un canal le long de l’ancienne rive, ce qui fit en sorte de transformer la jetée en île proprement dite. Durant les travaux, on déposa le matériel de l’excavation (un volume de 12 000 m3) sur la partie nord de l’île, créant ainsi une certaine élévation dans ce secteur. Cette île ayant une superficie de 0,36 km2 a été désignée Réserve écologique en 1981*
+
+*3.7.4 Autres interventions*
+
+*Plusieurs autres interventions de moindre envergure ont été effectuées le long du Saint-Laurent au 20e
+siècle et ont aussi affecté ses rives ; il serait certes fastidieux de les énumérer et décrire toutes. En voici toutefois quelques exemples :58*
+*• Travaux de l’Autoroute 20 sur la rive sud de Montréal et de l’Autoroute 40 au lac Saint-Pierre;
 • Remblayage pour la construction résidentielle le long des rives dans la grande région
 montréalaise;
 • Ouvrages de protection contre l’érosion (murs, enrochements) ;
 • Infrastructures portuaires : Sorel, Contrecœur, Trois-Rivières, Bécancour, Portneuf et Québec;
 • Multiples tranchées dans le lit du Saint-Laurent pour permettre le passage de pipelines,
-d’oléoducs ou de fils électriques.
+d’oléoducs ou de fils électriques.*
+
+
+
 ### Extraits Résumé naviation fleuve Saint-Laurent sur ClearSeas.org
 
 https://clearseas.org/fr/blogue/naviguer-le-saint-laurent-realites-defis-et-perspectives-davenir/

@@ -1,0 +1,76 @@
+\documentclass[12pt]{article}
+    \title{\textbf{Essai avec Gummi}}
+    \author{Claude Péloquin}
+    \date{\today}
+    \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% fonts
+\usepackage{baskervald}
+%\usepackage{kpfonts}
+%\usepackage{charter}
+\usepackage{csquotes}
+\usepackage[french]{babel}
+\usepackage[backend=biber, style=iso-authoryear]{biblatex}
+\DefineBibliographyStrings{french}{in={dans},inseries={dans}}
+\bibliography{bibtest2.bib}
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+
+\section*{Introduction}
+
+Test des guillements différence entre \og og et fg \fg, et qu'en est-t-il des apostrophes comme t'es où? C'est sûr que \LaTeX\ est beaucoup mieux que markdown finalement. Markdown pour les notes et les publications blogue, en utilisant visual code, et \LaTeX\ pour tout le reste: cv, articles, lettres.
+
+\section*{Quelques commandes}
+
+Voici quelques commandes de base.\footnote{Notes de base tirées de ce texte: http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf}
+
+\textit{words in italics}
+
+\textsl{words slanted}
+
+\textsc{words in smallcaps}
+
+\textbf{words in bold}
+
+\texttt{words in teletype}
+
+\textsf{sans serif words
+}
+\textrm{roman words}
+
+\underline{underlined words}
+
+Maintenant une liste
+\begin{enumerate}\item First thing\item Second thing\begin{itemize}\item A sub-thing\item Another sub-thing\end{itemize}\item Third thing\end{enumerate}
+est-ce que j'ai tous les élements?
+et maintenant, un tableau: 
+
+(\cite{Reynaud1990})
+
+% aide mémoire sections:
+%\part{titre}partie
+%\chapter{titre}chapitre (reportetbookseulement)
+%\section{titre}section
+%\subsection{titre}sous-section
+%\subsubsection{titre}sous-section (niveau 2)
+%\paragraph{titre}sous-section (niveau 3)
+%\subparagraph{titre}sous-section (niveau 4)
+
+
+\section*{Contributing}
+If you'd like to contribute to this project, here's some ideas:
+%\begin{description}
+%\addtolength{\itemindent}{0.80cm}
+%\itemsep0em 
+%\item[Development] fix bugs or add features to our C/GTK codebase
+%\item[Documentation] edit the user guide to improve user experience
+%\item[Localization] translate Gummi in your native language
+%\item[Testing] try out the latest and report your findings
+%\end{description}
+%Refer to the \emph{Getting Involved}\footnote{https://github.com/alexandervdm/gummi/wiki/Getting-Involved} section on our wiki for more information. 
+\printbibliography
+\end{document}
+

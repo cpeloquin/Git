@@ -1,0 +1,9 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[1] Config.pm:315> INFO - Logfile is 'iledegrace.blg'
+[160] biber:330> INFO - === lun mai 24, 2021, 14:50:36
+[284] Biber.pm:415> INFO - Reading 'iledegrace.bcf'
+[365] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[374] Utils.pm:395> WARN - The file 'iledegrace.bcf' does not contain any citations!
+[386] bbl.pm:651> INFO - Writing 'iledegrace.bbl' with encoding 'UTF-8'
+[386] bbl.pm:754> INFO - Output to iledegrace.bbl
+[492] Biber.pm:128> INFO - WARNINGS: 1
