@@ -1,5 +1,10 @@
 # Projets 
 
+## Criquets
+
+### écrire résumé article géoforum en français
+
+
 ## Géographie québecoise
 
 
@@ -35,6 +40,13 @@
 ### Écologie 
 
 Les services écosystémiques
+
+### Réconciliation et conféderation
+
+La réconciliation a été la promesse centrale du Gouvernement Trudeau.
+La fédération a investi énormément, tant en capital politique qu'en argent : des milliards dépensés en compensation. Total dépensé par individu. Un «framework». beaucoup de controverses. Pourquoi.
+Un autre élément du gouvernement libéral sous Justin Trudeau: un état dont la «modernité post-nationale»  est dans les faits un nouvel imaginaire nationaliste Canadian
+Et la réconciliation
 
 
 # Avril 2021 retour à la géographie

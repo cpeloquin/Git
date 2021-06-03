@@ -40,3 +40,154 @@ Nord : Pour les gens de l'île de Grâce, il y quatre points cardinaux: le nord,
 CARRIÈRE, Marcel (1980) De Grâce et d'Embarras. Une campagne bousculée par la ville, film de 16 mm, couleur, Office national du film du Canada, 94 minutes.
 
 SOLTÉSZ, Joseph-Attila (1971) Le parler des îles de Berthier-Sorel : étude linguistique, aperçus ethnographiques, thèse de doctorat non publiée, université Laval, 868 p
+
+
+banq Lake Saint Peter
+
+
+Sunset on Lake Saint Peter, july 1882 par Henri Joly de Lotbinière. Musée du Québec, BAnQ Québec https://numerique.banq.qc.ca/patrimoine/details/52327/3060499
+
+Sunset on Lake Saint Peter, july 1882 par Henri Joly de Lotbinière. Musée du Québec
+Créateur : Neuville Bazin
+Date : 1951
+Genre : Photographies
+Sujets : Musée du Québec,
+Bazin, Neuville, 1918-1983
+Notice détaillée : E6,S7,SS1,P89530
+Regroupements : Publications et archives gouvernementales ,
+Fonds Ministère de la Culture et des Communications ,
+Office du film du Québec
+Lieu de conservation : BAnQ Québec
+
+TY  - ART
+TI  - Sunset on Lake Saint Peter, july 1882 par Henri Joly de Lotbinière. Musée du Québec
+PY  - 1951
+Y2  - 2021/05/24
+AV  - BAnQ Québec
+M2  - Fonds Ministère de la Culture et des Communications
+CN  - 03Q,E6,S7,SS1,P89530
+A1  - Neuville Bazin
+UR  - https://numerique.banq.qc.ca/patrimoine/details/52327/3060499
+ER  -
+
+    %O Artwork
+    %T Sunset on Lake Saint Peter, july 1882 par Henri Joly de Lotbinière. Musée du Québec
+    %D 1951
+    %[ 2021/05/24
+    %2 BAnQ Québec
+    %3 Fonds Ministère de la Culture et des Communications
+    %L 03Q,E6,S7,SS1,P89530
+    %A Neuville Bazin
+    %U https://numerique.banq.qc.ca/patrimoine/details/52327/3060499
+    
+
+Rafts on a squall on Lake St-Peter, William Henry Bartlett, 1840, BAnQ 
+https://collections.banq.qc.ca/ark:/52327/1996255
+
+itre : Rafts on a squall on Lake St-Peter
+Créateurs : Bartlett, W.H. (William Henry), 1809-1854 ,
+Bartlett, W.H. ,
+Cousen, J.
+Éditeur : London :Virtue & Co.,[1840]
+Genre : Iconographie documentaire
+Sujet : Saint-Pierre, Lac (Québec)
+Description matérielle : 1 image ; 20 x 26 cm
+Notice détaillée : 0002723793
+Lien https://collections.banq.qc.ca/ark:/52327/1996255
+
+Wreck of a raft on Lake St. Peter's, John Andrew, 1860
+BAnQ, https://collections.banq.qc.ca/ark:/52327/1958257
+
+
+itre : Wreck of a raft on Lake St. Peter's
+Créateur : Andrew, John, 1815-1875
+Éditeur : 1860
+Genre : Illustrations de monographie
+Sujets : Épaves,
+Flottage en trains,
+Lacs,
+Radeaux,
+Tempêtes
+Description matérielle : 1 estampe
+Dans : Hunter's panoramic guide from Niagara Falls to Quebec / by Wm. S.Hunter, Jr., p. 51
+Notice détaillée : 0002728834 
+https://collections.banq.qc.ca/ark:/52327/1958257
+
+
+
+Sorel Industries Limited, Sorel, Quebec
+Éditeur : Toronto :Photogelatine Engraving Co., Ltd.,[19--?]
+Genre : Cartes postales
+Sujets : Sorel Industries Ltd.,
+Chantiers navals
+Description matérielle : 1 carte postale
+Notice détaillée : 0002635606
+Lienhttps://collections.banq.qc.ca/ark:/52327/9945
+
+
+itre : Port de Sorel, Sorel, P.Q. = Harbour, Sorel, P.Q. /
+Éditeur : Ottawa :Photogelatine Engraving Co. Limited,[entre 1920 et 1945?]
+Genre : Cartes postales
+Description matérielle : 1 carte postale : couleur ; cm
+Notice détaillée : 0004752608
+Lien 
+https://collections.banq.qc.ca/ark:/52327/2482800
+
+ Nacelle Sorel
+Créateur : Jean-Marie Cossette
+Date : 1978
+Genre : Photographies
+Sujets : Cossette, Jean-Marie, 1928-2007,
+Sorel, Ville (Québec : Division cadastrale)
+Notice détaillée : P690,S1,D78-140-T
+Regroupement : Fonds Point du jour aviation limitée
+Lieu de conservation : BAnQ Vieux-Montréal
+
+
+Titre : îles de Sorel, Qué /
+Éditeur : [Sorel?] :[éditeur non identifié],[entre 1903 et 1948?]
+Genre : Cartes postales
+Description matérielle : 1 carte postale photographique : noir et blanc ; cm
+Notice détaillée : 0004752574 https://collections.banq.qc.ca/ark:/52327/2482795
+
+
+Titre : Vue aérienne de Sorel
+Créateur : Armour Landry
+Date : [Vers 1960]
+Genre : Photographies
+Sujet : Vues aériennes
+Notice détaillée : P97,S1,D7738-7738
+Regroupement : Fonds Armour Landry
+Lieu de conservation : BAnQ Vieux-Montréal
+https://numerique.banq.qc.ca/patrimoine/details/52327/3234814
+
+
+itre : Ruisseau du Marais à Sorel
+Créateur : David Clerk
+Date : 1939
+Genre : Photographies
+Sujets : Cours d'eau,
+Marais
+Notice détaillée : E6,S7,SS1,P9265
+Regroupements : Publications et archives gouvernementales ,
+Fonds Ministère de la Culture et des Communications ,
+Office du film du Québec
+Lieu de conservation : BAnQ Québec
+Lien https://numerique.banq.qc.ca/patrimoine/details/52327/3061148
+ : 
+Titre : Ruisseau du Marais à Sorel
+Créateur : David Clerk
+Date : 1939
+Genre : Photographies
+Sujets : Cours d'eau,
+Marais
+Notice détaillée : E6,S7,SS1,P9262
+Regroupements : Publications et archives gouvernementales ,
+Fonds Ministère de la Culture et des Communications ,
+Office du film du Québec
+Lieu de conservation : BAnQ Québec
+https://numerique.banq.qc.ca/patrimoine/details/52327/3061145
+     
+
+
+http://www.eauxdevies.ca/francais/html/section30/index.html
