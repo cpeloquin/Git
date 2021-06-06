@@ -1,3 +1,16 @@
+Corrections 5 juin 2021
+
+En comparaison aux îles habitées mentionnées plus haut, l’île de Grâce est plus isolée dans l’espace. C’est sans doute pour cette raison que l'habitation de cette île aurait commencé plus tardivement que les autres, et qu’elle est demeurée jusqu’à la fin, pour ainsi dire, «pionnière» : sans électricité, accès routier, ou eau courante.
+
+
+Et puis un lent déclin a lieu, s'accélérant dans les années 1930 et 1940. Dans la décennie suivante, il ne reste que deux cultivateurs, 
+
+Mare à Gérard, creusée par Gérard Lavallée. L'article de Langevin mentionne que M. Lavallée s’y noya vers l’âge de 20 ans, mais sa noyade a eu lieu dans le fleuve à l'ouest de l'île, en 1961; mon grand-père y avait repêché son corps. La Presse du 10 octobre 1961 (p. 3) indique que «M. Gérard Lavaléée, âgé de 21 ans, de St-Anne-de-Sorel, s'est noyé dans le fleuve. Il était avec un compagnon dans une chaloupe qui a chaviré.» 
+
+
+(La Presse, 10 octobre 1961, p.3
+
+
 # L’île de Grâce
 
 

@@ -36,7 +36,7 @@ Pour répondre à cette pétition, on mandata un comité d'experts, on effectua 
 
 Il faut dire que le gouvernement de ce nouveau «Canada-uni» s'était rapidement enthousiasmé, dès sa formation, pour plusieurs grands projets de génie civil : routes, canaux, et ponts. 
 
-Certains historiens canadiens, par example, John Heisler (1973), estiment même que ce sont les besoins de financement de tels grands projets qui avait justifié «l'union des Canadas»; les provinces séparées n'auraient pu, selon cette historiographie, se permettre de tels ouvrages. En effet, l'aspect financier de cet union vaut la peine d'être rapellé : l'Acte d'Union combinait la dette du Bas-Canada, d'environ 95 000 livres (pour 650 000 habitants) à celle du Haut-Canada, de 1 200 000 livres (pour 450 000 habitants). C'est donc en partie en partageant leurs dettes que les investisseurs et gouverneurs du Canada-Unis pouvaient maintenant se permettre une «deuxième chance au crédit» et se lancer dans de nouveaux investissements. 
+Certains historiens canadiens, par example, John Heisler (1973), estiment même que ce sont les besoins de financement de tels grands projets qui avait justifié «l'union des Canadas»; les provinces séparées n'auraient pu, selon cette historiographie, se permettre de tels ouvrages. En effet, l'aspect financier de cet union vaut la peine d'être rapellé : l'Acte d'Union combinait la dette du Bas-Canada, d'environ 95 000 livres (pour 650 000 habitants) à celle du Haut-Canada, de 1 200 000 livres (pour 450 000 habitants). C'est donc en partie en partageant les dettes des deux colonies que les investisseurs et gouverneurs du Canada-Unis pouvaient maintenant se permettre une «deuxième chance au crédit» et de nouveaux investissements. 
 
 Ainsi, le *Board of Works of the Province of Canada* se lança, dès 1841, dans de nombreux projets, embauchant des douzaines d'ingénieurs, dans un mouvement que White (2000) estime étant la génèse de la profession d'ingénieur au Canada, et qui dura jusqu'à ce que le Board épuise ses fonds quelques années plus tard: «Employment for civil engineers in Canada fell off in the mid-1840s when the Board's money ran out», remarque-t-il.
 
@@ -119,7 +119,6 @@ Les débats techniques sur les avantages et inconvénients des deux tracé et su
 
 
 
-
 The Commissioners oj Enquiry into the Management oj the Board oj Works,
 set up by the Législative Assembly, were appointed in response to a pétition
 that an inquiry be made into the mode of doing business of the Board, the discharging of their duties, and the expenditure of public funds. They had an
@@ -138,9 +137,6 @@ when the new channel was finished, shipping would hâve two usable channels,
 one to serve vessels of ashallow draught and the other for thoseofalargerdraught.
 This would diminish the risk of collision, and the arrangement could be put into
 effect by a by-Iaw of the Trinity
-
-
-Juste une idée. Rien ne suggère qu'il y a un motif ultérieur de profit ou autre, un erreur de parcours aussi de bonne volonté. 
 
 
 
